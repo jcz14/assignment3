@@ -1,1 +1,17 @@
 /*styles for assignment 3*/
+
+html, body {
+    background: #ffff80;
+}
+
+p.large-text {
+    font-size: x-large;
+}
+
+p.silver {
+    color: #808080;
+}
+
+p.darkblue {
+    color: #000080;
+}
